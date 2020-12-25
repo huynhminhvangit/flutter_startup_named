@@ -1,0 +1,2 @@
+### src
+Như bạn có thể thấy rằng main.darttệp nằm ngoài src và chúng tôi sẽ chỉ viết mã ứng dụng trong gói src này . Khi main.dartsẽ thực thi dưới dạng tệp gốc, chúng tôi sẽ chuyển hướng nó đến src\app.darttệp sẽ chứa tất cả các thành phần MaterialApp / CupertinoApp.
